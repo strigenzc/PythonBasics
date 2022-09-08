@@ -21,3 +21,5 @@ def hello_cloud_event(cloud_event):
 
     print('Heads:', outcomes['heads'])
     print('Tails:', outcomes['tails'])
+
+    ##fakedata
